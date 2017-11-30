@@ -1,0 +1,7 @@
+package: work-codes/wuspider/wuyue
+import:
+- package: github.com/Tang-RoseChild/mahonia
+- package: golang.org/x/net
+  subpackages:
+  - html
+- package: github.com/PuerkitoBio/goquery
